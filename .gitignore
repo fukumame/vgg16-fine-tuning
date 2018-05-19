@@ -3,3 +3,4 @@ test_images/
 train_images/
 .idea/
 .ipynb_checkpoints/
+results/

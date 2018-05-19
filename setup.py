@@ -2,6 +2,9 @@ import os
 import shutil
 import random
 
+# 以下から画像データを取得し、jpgという名前をつける
+# http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
+
 IN_DIR = 'jpg'
 TRAIN_DIR = 'train_images'
 TEST_DIR = 'test_images'
